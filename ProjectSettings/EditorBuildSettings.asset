@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SecondScene.unity
     guid: 4a77d0029417b4f4784b4e8fa5f62724
+  - enabled: 1
+    path: Assets/Old Sea Port/scenes/Dock Thing.unity
+    guid: f4fc660ad7cf6eb4eb8cd6d109f7608e
   m_configObjects: {}

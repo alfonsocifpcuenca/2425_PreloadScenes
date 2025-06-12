@@ -414,7 +414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   loaderUI: {fileID: 1588810800541271395, guid: 6c143ec63bb6d4440a14cb3fa60d75e4, type: 3}
-  sceneToLoad: SecondScene
+  sceneToLoad: Dock Thing
 --- !u!1 &406353483
 GameObject:
   m_ObjectHideFlags: 0
